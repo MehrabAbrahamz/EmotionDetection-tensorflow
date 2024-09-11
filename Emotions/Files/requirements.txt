@@ -1,0 +1,1 @@
+pip install matplotlib , pandas , opencv-python , numpy , os , tqdm , tensorflow
